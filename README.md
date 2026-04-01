@@ -1,6 +1,6 @@
 # TikTok Bulk Downloader
 
-[**Download for Windows**](https://github.com/IDEX-Team/TikTok-Bulk-Downloader/releases/download/v0.0.3/TikTok.Bulk.Downloader_0.0.3_x64_en-US.msi) 🚀
+[**Download for Windows**](https://github.com/The-Senile-Developers/TikTok-Bulk-Downloader/releases/download/v0.0.4/TikTok.Bulk.Downloader_0.0.4_x64-setup.exe) 🚀
 
 **TikTok Bulk Downloader** is a powerful tool developed by **The Senile Developers** that allows you to download multiple TikTok videos simultaneously at blazing speed. This software offers two convenient downloading modes:
 
